@@ -2,7 +2,7 @@
 
 A FastAPI-based service for evaluating AI-generated text across multiple dimensions including toxicity, PII, bias, and hallucinations.
 
-[eval_result](eval_result.png)
+![eval_result](eval_result.png)
 
 ## Features
 
