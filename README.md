@@ -2,7 +2,7 @@
 
 A FastAPI-based service for evaluating AI-generated text across multiple dimensions including toxicity, PII, bias, and hallucinations.
 
-![eval_result](eval_result.png)
+![swagger_ui](https://github.com/AOGbadamosi2018/AItext_evaluator/blob/main/swagger_ui.png))
 
 ## Features
 
